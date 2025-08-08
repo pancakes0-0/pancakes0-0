@@ -1,16 +1,15 @@
-## Hi there 👋
+**Primary Languages:**
+- **C++**
+- **C#**
 
-<!--
-**pancakes0-0/pancakes0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently Learning:**
+- Modern C++ development
+- low-level programming concepts
 
-Here are some ideas to get you started:
+##  GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![pancakes0-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pancakes0-0&show_icons=true&theme=default)
+
+##  Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pancakes0-0&layout=compact)
